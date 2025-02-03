@@ -1,4 +1,4 @@
-Hotel Data Analysis Power BI Dashboard
+Restaurant Data Analysis Power BI Dashboard
 
 Overview
 This Power BI dashboard provides an analysis of hotel order data, including item-wise sales performance, order types, and revenue distribution. It offers insights into customer preferences, top-selling items, and the financial impact of various order categories.
